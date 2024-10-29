@@ -27,7 +27,6 @@
 - [es_extended](https://github.com/esx-framework/esx_core)
 - [oxmysql](https://github.com/overextended/oxmysql)
 - [ox_lib](https://github.com/overextended/ox_lib)
-- [esx_vehicleshop](https://github.com/esx-framework/esx_vehicleshop)
 
 ## Documentation
 - [AKL DOCUMENTATION](https://aklgaming.gitbook.io/documentation/gusti-resources/gusti-givevehicle)

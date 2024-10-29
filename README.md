@@ -19,6 +19,7 @@
 - Give Vehicle
 - Give Vehicle Custom Plate
 - Delete Vehicle With Plate
+- Alert Dialog
 
 ## Framework
 - [Esx Legacy](https://github.com/esx-framework/esx_core)
